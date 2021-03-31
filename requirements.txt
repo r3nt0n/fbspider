@@ -4,7 +4,7 @@ certifi==2018.8.24
 chardet==3.0.4
 EasyProcess==0.2.3
 idna==2.7
-lxml==4.6.2
+lxml==4.6.3
 PyVirtualDisplay==0.2.1
 requests
 selenium==2.53.0
